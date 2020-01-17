@@ -56,7 +56,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.5;
   color: #212529;
   text-align: left;
@@ -2513,7 +2513,7 @@ textarea.form-control {
 
 .btn {
   display: inline-block;
-  font-weight: 400;
+  font-weight: 600;
   color: #212529;
   text-align: center;
   vertical-align: middle;
@@ -6766,6 +6766,12 @@ button.bg-light:focus {
   background-color: #343a40 !important;
 }
 
+.bg-hakuna-green {
+ background-color: #064105 !important;
+}
+
+
+
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
@@ -10222,3 +10228,8 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+.cus_height {
+
+}
